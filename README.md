@@ -6,7 +6,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 **Currency Exchange Web App**
 
@@ -29,11 +28,10 @@ A React-based web application for currency exchange. Fetches real-time exchange 
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Start the development server with `npm run dev`.
-4. Open `http://localhost:3000` in your browser.
+4. Open `http://localhost:5173` in your browser.
 
 ### How to Contribute:
 1. Fork the repository.
 2. Create a new branch.
 3. Make changes or add features.
 4. Create a Pull Request.
->>>>>>> 3eaacbe21a8afea8c54e9ac3d7a1aa75dc699640

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -9,7 +8,7 @@ Currently, two official plugins are available:
 <br />
 =======
 <br />
-**Currency Exchange Web App**
+## Currency Exchange Web App
 
 A React-based web application for currency exchange. Fetches real-time exchange rates from an API and allows users to convert currencies easily.
 
